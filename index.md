@@ -6,15 +6,15 @@ permalink: /
 
 Welcome to my blog on all things Product Management and Data. Here you will find musings (hopefully with some slight humour) and projects (both completed and upcoming).
 
-Currently I work as a Technical Product Manager at Risilience, a startup working to quantify and strategise climate related risks for clients. Historically, I worked on data related problems (both the sexy stuff and the plumbing) across various startups and consulting practices.
+Currently I work as a Technical Product Manager at Risilience, a startup working to quantify and strategise climate related risks for clients.
 
 ## About Me {#about}
 
 <div class="about">
   <img class="avatar" src="assets/IMG_3319.jpg" alt="Patrick Stewart">
   <div class="bio">
-    <p>Hello! I'm Patrick Stewart, a data science and machine learning enthusiast. I love exploring the intersections of data science, machine learning, and natural language processing.</p>
-    <p>Currently I work as a Technical Product Manager at Risilience, a startup working to quantify and strategise climate related risks for clients.</p>
+    <p>For more information and socials, please use the links below.</p>
+    <p></p>
     <div class="social-links">
       <a href="/assets/Patrick_Stewart_CV_Final.pdf" aria-label="CV" title="CV">
         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline></svg>
